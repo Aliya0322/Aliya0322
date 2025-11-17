@@ -1,5 +1,15 @@
-<h1 align="center">👋 Hi, I'm Aliia Diusembekova</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">👋 Hi, I'm Aliya Dyusembekova</h1>
+<h3 align="center">Front-end Developer</h3>
+
+<p align="center">
+  <a href="mailto:DusembekovaAZ@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/AliyaDusem">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
@@ -7,31 +17,7 @@
 
 | Project | Status | Type |
 |----------|---------|------|
-| Сайт для фотостудии “Миг” | In progress | Private | 
-
----
-
-### Connect with me / Связаться со мной
-
-<p align="left">
-  <a href="mailto:DusembekovaAZ@gmail.com" title="Email">
-    <picture>
-      <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="40" height="40" alt="email"/>
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/AliyaDusem" title="Telegram">
-    <picture>
-      <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="40" height="40" alt="telegram"/>
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/AliyaDusem" title="GitHub">
-    <picture>
-      <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" height="40" alt="github"/>
-    </picture>
-  </a>
-</p>
+| Сайт для фотостудии "Миг" | In progress | Private | 
 
 ---
 
